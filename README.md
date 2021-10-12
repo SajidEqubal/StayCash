@@ -1,1 +1,3 @@
 # StayCash
+
+Play and Earn
